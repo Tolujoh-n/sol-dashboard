@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.642a13e1.css",
+    "main.js": "/static/js/main.b78b2ea7.js",
+    "static/js/787.1cd31a9e.chunk.js": "/static/js/787.1cd31a9e.chunk.js",
+    "static/media/fontawesome-webfont3e6e.svg?v=4.7.0": "/static/media/fontawesome-webfont3e6e.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/404.jpg": "/static/media/404.eee8df689c5924e532b7.jpg",
+    "static/media/bg-calculator.jpg": "/static/media/bg-calculator.f12560677b819446194d.jpg",
+    "static/media/503.jpg": "/static/media/503.3daa2b01703843bc8703.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.be8e9a971d93055601f4.jpg",
+    "static/media/bg-banner.jpg": "/static/media/bg-banner.f70f58f320a5d6642825.jpg",
+    "static/media/fontawesome-webfont3e6e.eot?v=4.7.0": "/static/media/fontawesome-webfont3e6e.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfontd41d.eot": "/static/media/fontawesome-webfontd41d.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont3e6e.ttf?v=4.7.0": "/static/media/fontawesome-webfont3e6e.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bg2.jpg": "/static/media/bg2.59d7a3acbaf06b26f176.jpg",
+    "static/media/call-to-action-bg.jpg": "/static/media/call-to-action-bg.3db1b465a4dbae830e64.jpg",
+    "static/media/bg-user.jpg": "/static/media/bg-user.2eb1fc9c8357e8f958c1.jpg",
+    "static/media/fontawesome-webfont3e6e.woff?v=4.7.0": "/static/media/fontawesome-webfont3e6e.f691f37e57f04c152e23.woff",
+    "static/media/bg-video.jpg": "/static/media/bg-video.dc2826f1080688ebccdc.jpg",
+    "static/media/bg-quote.jpg": "/static/media/bg-quote.83cb57cad3836131d283.jpg",
+    "static/media/fontawesome-webfont3e6e.html?v=4.7.0": "/static/media/fontawesome-webfont3e6e.20fd1704ea223900efa9.html",
+    "static/media/bg-user-3.jpg": "/static/media/bg-user-3.5b51fc3d0e85c2618a59.jpg",
+    "static/media/bg-user-2.jpg": "/static/media/bg-user-2.da6af36a12bed45bfe61.jpg",
+    "static/media/bg.png": "/static/media/bg.5da09d2deca5887ada6b.png",
+    "index.html": "/index.html",
+    "static/media/glyphicons-halflings-regular-2.html": "/static/media/glyphicons-halflings-regular-2.31d6cfe0d16ae931b73c.html",
+    "static/media/glyphicons-halflings-regular-3.html": "/static/media/glyphicons-halflings-regular-3.31d6cfe0d16ae931b73c.html",
+    "static/media/glyphicons-halflings-regular.html": "/static/media/glyphicons-halflings-regular.31d6cfe0d16ae931b73c.html",
+    "static/media/glyphicons-halflings-regular.eot-.html": "/static/media/glyphicons-halflings-regular.eot-.31d6cfe0d16ae931b73c.html",
+    "static/media/glyphicons-halflings-regular.svg.html": "/static/media/glyphicons-halflings-regular.svg.31d6cfe0d16ae931b73c.html",
+    "static/media/glyphicons-halflings-regular.woff2.html": "/static/media/glyphicons-halflings-regular.woff2.31d6cfe0d16ae931b73c.html",
+    "main.642a13e1.css.map": "/static/css/main.642a13e1.css.map",
+    "main.b78b2ea7.js.map": "/static/js/main.b78b2ea7.js.map",
+    "787.1cd31a9e.chunk.js.map": "/static/js/787.1cd31a9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642a13e1.css",
+    "static/js/main.b78b2ea7.js"
+  ]
+}
